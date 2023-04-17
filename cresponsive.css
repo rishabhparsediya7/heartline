@@ -1,0 +1,10 @@
+@media only screen and (max-width: 768px) {
+    body {
+        height: 100%;
+        background-size: cover;
+    }
+    .main {
+        height: 100%;
+        margin: 20px auto;
+    }
+}
